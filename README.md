@@ -12,11 +12,12 @@ Skript Shop: https://github.com/Verwarmingman/SkriptShop/wiki
 
 Skript Robots: https://github.com/Verwarmingman/SkriptRobot/wiki
 
-Skript TUtorials: https://github.com/Verwarmingman/SkriptTutorial/wiki
+Skript Tutorials: https://github.com/Verwarmingman/SkriptTutorial/wiki
 
 Skript Sellwands: https://github.com/Verwarmingman/SkriptSellwand/wiki
 
 Skript Multipliers: https://github.com/Verwarmingman/SkriptMultiplier/wiki
+
 
 
 Purchase Shop: https://tinyurl.com/242xjh5c

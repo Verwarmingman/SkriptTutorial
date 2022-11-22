@@ -24,7 +24,7 @@ Purchase Shop: https://tinyurl.com/242xjh5c
 
 Purchase Robots: https://tinyurl.com/3fw3uynm
 
-Purchase Tutorials: ADD LINK
+Purchase Tutorials: https://tinyurl.com/2fzjj658
 
 Purchase Sellwands: https://tinyurl.com/yvyxc36a 
 
